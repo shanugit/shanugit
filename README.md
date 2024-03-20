@@ -1,4 +1,4 @@
-- 👋 Hello There! I'm **Suman**, a **Front End Software Developer**.
+- 👋 Hello There! I'm **Suman**, a **Software Developer**.
 - 💞️ I like to develop Applications which are very user-friendly and engaging and have very good performance.
 - 🌱 I’m currently learning how to develop User Interface (UI) which is very performant.
 - 💞️ I’m looking to collaborate on Front-End development using Javascript, HTML, CSS and React.
